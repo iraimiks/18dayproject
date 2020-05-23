@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead371c1-5dc2-49bd-94d9-e279db3a64a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGmSdW7kMbuPQdnLJoOzfOafi5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestAbstract">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lv.raimonds.Main" />
+      <module name="18day" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.raimonds.TestAbstract" />
+      <module name="18day" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.raimonds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.raimonds.TestFile" />
+      <module name="18day" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.raimonds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestFile" />
+      <item itemvalue="Application.TestAbstract" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAbstract" />
+        <item itemvalue="Application.TestFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead371c1-5dc2-49bd-94d9-e279db3a64a7" name="Default Changelist" comment="" />
+      <created>1590163304482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590163304482</updated>
+      <workItem from="1590163309890" duration="9639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="-62" key="#com.intellij.ide.util.MemberChooser" timestamp="1590171058768">
+      <screen x="1920" y="-291" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="-62" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590171058768" />
+    <state width="1237" height="280" key="GridCell.Tab.0.bottom" timestamp="1590175290916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590172443035" />
+    <state width="1237" height="280" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590175290916" />
+    <state width="1237" height="280" key="GridCell.Tab.0.center" timestamp="1590175290916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590172443033" />
+    <state width="1237" height="280" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590175290916" />
+    <state width="1237" height="280" key="GridCell.Tab.0.left" timestamp="1590175290916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590172443031" />
+    <state width="1237" height="280" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590175290916" />
+    <state width="1237" height="280" key="GridCell.Tab.0.right" timestamp="1590175290916">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590172443034" />
+    <state width="1237" height="280" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590175290916" />
+    <state x="2576" y="53" key="com.intellij.ide.util.TipDialog" timestamp="1590240903407">
+      <screen x="1920" y="-291" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="53" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590240903407" />
+    <state x="2536" y="95" key="run.anything.popup" timestamp="1590171686937">
+      <screen x="1920" y="-291" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="95" key="run.anything.popup/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590171686937" />
+    <state x="2543" y="-66" width="672" height="678" key="search.everywhere.popup" timestamp="1590171140106">
+      <screen x="1920" y="-291" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="-66" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590171140106" />
+    <state x="2602" y="141" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590165840552">
+      <screen x="1920" y="-291" width="1920" height="1040" />
+    </state>
+    <state x="2602" y="141" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680/1920.-291.1920.1040@1920.-291.1920.1040" timestamp="1590165840552" />
+  </component>
+</project>

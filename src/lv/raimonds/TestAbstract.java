@@ -23,7 +23,7 @@ public class TestAbstract {
         Monster monster5 = new GreenMonster("Green Monster");
         System.out.println(monster5.heal());
 
-
+        System.out.println("New line");
         RedMonster monsterT = new RedMonster("RedM");
         Monster monsterS = new RedMonster("RedM");
         monsterT.jump();
